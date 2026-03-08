@@ -25,3 +25,9 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Database
+finance_saku.db
+
+# Planning files
+.github/prompts/plan-financeSaku.prompt.md
